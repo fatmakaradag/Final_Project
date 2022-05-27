@@ -4,4 +4,4 @@
 
 
 -------------- poster-----------------------------------
-https://github.com/fatmakaradag/Final_Project/blob/main/img.jpeg
+<img src="img.jpeg" width="auto">
